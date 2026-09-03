@@ -1,6 +1,6 @@
 # landing-page1
 
-## Über Projekt
+## Landing-page
 Das ist ein älteres Projekt von mir.
 
 Ich habe die Website nach einem Design aus Figma gemacht. Bei diesem Projekt wollte ich vor allem üben, wie man verschiedene Elemente auf der Seite richtig anordnet und wie sich das Layout verändert, wenn man die Größe des Fensters ändert.
@@ -16,5 +16,5 @@ Ich habe die Website nach einem Design aus Figma gemacht. Bei diesem Projekt wol
  - Mit verschiedenen Fenstergrößen getestet
  - Erste Erfahrungen mit responsivem Design gesammelt
 
-## Ziel
+## Über das Projekt
 Das Projekt gehört zu meinen älteren Projekten und war für mich eine Übung, um meine HTML- und CSS-Kenntnisse zu verbessern.
