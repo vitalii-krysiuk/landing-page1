@@ -1,3 +1,5 @@
+# landing-page1
+
 Das ist ein älteres Projekt von mir.
 
 Ich habe die Website nach einem Design aus Figma gemacht. Bei diesem Projekt wollte ich vor allem üben, wie man verschiedene Elemente auf der Seite richtig anordnet und wie sich das Layout verändert, wenn man die Größe des Fensters ändert.
