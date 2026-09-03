@@ -8,7 +8,7 @@ Verwendete Technologien
    
 Was ich bei diesem Projekt gemacht habe
  - Website nach einem Figma-Design erstellt
- - Elemente mit CSS und Flexbox angeordnet
+ - Elemente mit CSS angeordnet
  - Abstände und Größen angepasst
  - Mit verschiedenen Fenstergrößen getestet
  - Erste Erfahrungen mit responsivem Design gesammelt
